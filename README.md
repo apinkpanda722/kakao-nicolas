@@ -1,2 +1,1 @@
-# kakao-nicolas
- 
+# kakao-clone-v2
